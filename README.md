@@ -3,10 +3,9 @@
 <h3 align="center"> Welcome to my GitHub profile repository! I am a UX designer and web developer passionate about creating intuitive and user-friendly digital experiences. </h3>
 
 ## About Me  
-- UX Designer with a focus on **children's e-commerce platforms**  
+- UX Designer 
 - Studying **.NET and ASP.NET**  
 - Learning **back-end development and database design**  
-- International student in Canada  
 
 ## Connect With Me  
 - [Portfolio](https://gulzarfatima.framer.ai/)  
