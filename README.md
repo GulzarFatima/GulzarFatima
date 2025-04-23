@@ -2,7 +2,14 @@
 
 <h3 align="center"> Welcome to my GitHub profile repository! I am a UX designer and web developer passionate about creating intuitive and user-friendly digital experiences. </h3>
 
-## Check out my recent project! 🤩 ➡ [Westeros Dragons Wiki 🐉](https://gulzarfatima.github.io/Westeros-Dragon-Wiki-/)
+## Check out my recent projects! 🤩
+
+### [Westeros Dragons Wiki 🐉](https://gulzarfatima.github.io/Westeros-Dragon-Wiki-/)  
+Explore a detailed Wiki on the dragons of Westeros. Learn about different houses and their legendary dragons!
+
+### [Catch a Cat with Cupcake 🧁](https://gulzarfatima.github.io/Catch-a-cat-with-cupcake/)  
+A fun and interactive game where you click on cats with cupcakes to score points. See how fast you can catch them!
+
 
 ## About Me  
 - UX Designer 
