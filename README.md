@@ -4,11 +4,15 @@
 
 ## Check out my recent projects! 🤩
 
+### [https://cookgpt-21312859775.us-central1.run.app/)  
+CookGPT is a simple, interactive AI-powered recipe generator!
+
 ### [Westeros Dragons Wiki 🐉](https://gulzarfatima.github.io/Westeros-Dragon-Wiki-/)  
 Explore a detailed Wiki on the dragons of Westeros. Learn about different houses and their legendary dragons!
 
 ### [Catch a Cat with Cupcake 🧁](https://gulzarfatima.github.io/Catch-a-cat-with-cupcake/)  
 A fun and interactive game where you click on cats with cupcakes to score points. See how fast you can catch them!
+
 
 
 ## About Me  
