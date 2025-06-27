@@ -36,9 +36,3 @@ A fun, interactive game where you click on cats with cupcakes to score points. S
 - **Database:** SQL  
 - **UX/UI:** Figma, User Research
 
----
-
-## Pinned Repositories  
-Here are some of my favorite projects:
-- [Back-End Web Development 1](https://github.com/GulzarFatima/Back-End-Web-Development-1---HTTP-5125-RNB.git)  
-- [Database Design & Development](https://github.com/GulzarFatima/Database-Design-Development---HTTP-5126-0NB.git)
