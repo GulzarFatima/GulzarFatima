@@ -19,7 +19,7 @@ A fun, interactive game where you click on cats with cupcakes to score points. S
 ---
 
 ## About Me  
-- UX Designer  
+- Product Designer & Researcher
 - Currently studying **.NET and ASP.NET**  
 - Learning **back-end development and database design**
 
